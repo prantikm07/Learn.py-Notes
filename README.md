@@ -2,6 +2,8 @@
 
 Welcome to the **Learn.py Notes** repository! This repository included essential resources from the **Learn.py** workshop:
 
+- **Youtube Live Link**: https://www.youtube.com/watch?v=HUDww8qH0Rg&t=6167s
+
 - **PowerPoint Presentation**: A structured slide deck to guide participants through key Python fundamentals.
   
 - **Jupyter Notebook**: An interactive notebook with explanations, examples, and exercises for practical learning.
